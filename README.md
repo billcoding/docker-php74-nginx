@@ -1,7 +1,7 @@
 # Docker PHP-FPM 7.4 & Nginx 1.24 on Alpine Linux
 Example PHP-FPM 7.4 & Nginx 1.24 container image for Docker, built on [Alpine Linux](https://www.alpinelinux.org/).
 
-Repository: https://github.com/billing/docker-php-nginx
+Repository: https://github.com/billing/docker-php74-nginx
 
 
 * Built on the lightweight and secure Alpine Linux distribution
