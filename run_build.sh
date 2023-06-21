@@ -1,1 +1,1 @@
-docker build -f Dockerfile -t $1 .
+docker buildx build -t billcoding/php74-nginx -f Dockerfile --platform "linux/arm64,linux/amd64" --push .
